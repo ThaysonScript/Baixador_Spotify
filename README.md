@@ -3,6 +3,8 @@ Baixa músicas do Spotify usando o pacote "Spotdl" atraves do link da musica pel
 
 # Guia de Uso:
 ## Documentacao para uso do Spotdl: https://spotdl.readthedocs.io/en/latest/reference/
+## Baixe o FFmpeg:
+##### spotdl --download-ffmpeg
 
 ## Api do Spotify:
 #### apartir do site, Spotify Developer: https://developer.spotify.com/
